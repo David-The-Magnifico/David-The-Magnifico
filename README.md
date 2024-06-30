@@ -1,21 +1,29 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=david-the-magnifico&label=Profile%20views&color=0e75b6&style=flat" alt="david-the-magnifico" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=david-the-magnifico&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-the-magnifico" alt="david-the-magnifico" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=david-the-magnifico" alt="GitHub Profile Trophy" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/@_the_magnifico" target="blank"><img src="https://img.shields.io/twitter/follow/@_the_magnifico?logo=twitter&style=for-the-badge" alt="@_the_magnifico" /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/_the_magnifico" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/_the_magnifico?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/David-The-Magnifico](https://github.com/David-The-Magnifico)
+<p align="center">💼 All of my projects are available at <a href="https://github.com/David-The-Magnifico">github.com/David-The-Magnifico</a></p>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/david-oladipo-99721614a/](https://www.linkedin.com/in/david-oladipo-99721614a/)   #  https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true
+<p align="center">📝 I regularly write articles on <a href="https://www.linkedin.com/in/david-oladipo-99721614a/">LinkedIn</a></p>
 
-- 📫 How to reach me **www.wealthydavid@gmail.com**
+<p align="center">📫 How to reach me: <a href="mailto:www.wealthydavid@gmail.com">wealthydavid@gmail.com</a></p>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/david-oladipo-99721614a/](https://www.linkedin.com/in/david-oladipo-99721614a/)
-
-- ⚡ Fun fact **I read books and brainstorm a lot!!**
+<p align="center">⚡ Fun fact: I read books and brainstorm a lot!!</p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
